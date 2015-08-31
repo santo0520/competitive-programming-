@@ -1,2 +1,8 @@
 # competitive-programming-
-solving puzzles with python to improve programming skills 
+Goal: solving puzzles with python to improve programming skills 
+puzzle sources ( continue updating...) 
+1.hackerRank 
+2.Codechef
+3.rpojct Euler 
+4.TopCoder 
+5.CodeForce 
